@@ -48,4 +48,7 @@ Run the server:
 
     python manage.py runserver
 
+
+You can now open your browser and point it to http://localhost:8000/core
+
 Done! :)
