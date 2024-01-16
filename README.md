@@ -26,7 +26,7 @@ Install Django:
 
 Create a django project:
 
-    django-admin startproject --template=https://bit.ly/3K4tJE6 --extension=py,sh,env <project_name> .
+    django-admin startproject --template=https://bit.ly/47BCyij --extension=py,sh,env <project_name> .
 
 Execute the startup script:
 
