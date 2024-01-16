@@ -1,0 +1,7 @@
+dj-database-url
+django
+django-test-without-migrations
+#psycopg2  # optional
+#mysqlclient  # optional
+python-decouple
+pytz
